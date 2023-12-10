@@ -13,7 +13,7 @@
 
 ### Currently
 - Actively working on personal coding projects.
-- Balancing high school and college-level coursewor with an additional cybersecurity career tech course.
+- Balancing high school and college-level coursework with an additional cybersecurity career tech course.
 - Competing in CyberPatriot XVI.
 
 Feel free to reach out via Discord @ reversed-coffee or [shoot me an email](mailto:realnickk1@gmail.com).
