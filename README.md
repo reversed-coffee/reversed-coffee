@@ -1,4 +1,4 @@
-### Three Sayings I Like
+### Sayings I Like
 
 - "The best antivirus is common sense."
 - "Security through obscurity is not security at all. Stop adopting it."
