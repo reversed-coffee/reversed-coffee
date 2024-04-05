@@ -14,4 +14,4 @@
 - Actively working on personal coding projects.
 - Balancing high school and college-level coursework with an additional cybersecurity career tech course.
 
-Feel free to reach out via Discord @ reversed-coffee or [shoot me an email](mailto:realnickk1@gmail.com).
+Feel free to reach out via Discord @ reversed-coffee or [shoot me an email](mailto:nick@reversed.coffee).
