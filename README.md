@@ -4,9 +4,9 @@ Just an average student that likes making random things.\
 Member of [Substrant Softworks](https://github.com/substrant).
 
 #### Socials
-![https://t.me/reversed_coffee](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![https://signal.me/#eu/Ak1GukVX2l8Dofirn8M66E-wXHcX4wK8zQ1EjOT8LcXb8gxJy81GvYkZB5fCsaxQ](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)
-![https://www.linkedin.com/in/nicholas-hardenburgh/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reversed_coffee)
+[![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/Ak1GukVX2l8Dofirn8M66E-wXHcX4wK8zQ1EjOT8LcXb8gxJy81GvYkZB5fCsaxQ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-hardenburgh/)
 
 #### Interest Fields
 ![](https://img.shields.io/badge/Software%20Engineering-363331?style=for-the-badge)
