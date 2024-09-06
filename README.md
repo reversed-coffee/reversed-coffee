@@ -50,6 +50,6 @@ I'm just your average cybersecurity enthusiast. Here's a highlight of current ev
 
 | Network | Receive Address |
 |---------|-----------------|
-| ![Monero/XMR](https://img.shields.io/badge/Monero-3C3C3D?style=for-the-badge&logo=monero&logoColor=FF6600)         | `42w9nCAPRmYewCsh7vusec4rJACWv3T2kSsrxDxw2sgp3hmE9UmHNC2hQsb6ghQJA7iCFo8e3HcXbYRkRCj4ZSsR1JA9D1K` |
-| ![Ethereum/ETH](https://img.shields.io/badge/Eth%2FERC20-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) | `0xF783900F00B2960F54A1b5d5B01b3AA371eCddB0` |
-| ![Litecoin/LTC](https://img.shields.io/badge/Litecoin-3C3C3D?style=for-the-badge&logo=litecoin&logoColor=A6A9AA)   | `ltc1qqqxjh9wqy398nlq3zsntx0mlgttkah4ueydnez` |
+| ![XMR](https://img.shields.io/badge/XMR-3C3C3D?style=for-the-badge&logo=monero&logoColor=FF6600)                 | `42w9nCAPRmYewCsh7vusec4rJACWv3T2kSsrxDxw2sgp3hmE9UmHNC2hQsb6ghQJA7iCFo8e3HcXbYRkRCj4ZSsR1JA9D1K` |
+| ![ETH/ERC-20](https://img.shields.io/badge/ETH%2FERC20-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) | `0xF783900F00B2960F54A1b5d5B01b3AA371eCddB0` |
+| ![LTC](https://img.shields.io/badge/LTC-3C3C3D?style=for-the-badge&logo=litecoin&logoColor=A6A9AA)               | `ltc1qqqxjh9wqy398nlq3zsntx0mlgttkah4ueydnez` |
