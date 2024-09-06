@@ -1,18 +1,23 @@
 ![](https://komarev.com/ghpvc/?username=reversed-coffee)
 
-Average cybersecurity enthusiast, casual developer, meticulous reverse engineer.
-
-#### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-hardenburgh/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nick@reversed.coffee)
 [![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/Ak1GukVX2l8Dofirn8M66E-wXHcX4wK8zQ1EjOT8LcXb8gxJy81GvYkZB5fCsaxQ)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reversed_coffee)
+
+OpenPGP Key ID: `48d266e3255b7be2`
+
+I'm just your average cybersecurity enthusiast. Here's a highlight of current events:
+- 🧑‍💻 Preparing for CyberPatriot XVII as a varsity Team Captain
+- 🎒 Taking my 2nd year Cybersecurity/Digital Forensics course
+- 🎓 Working on obtaining my associate's degree
 
 #### Interests
 ![](https://img.shields.io/badge/Software%20Engineering-363331?style=for-the-badge)
 ![](https://img.shields.io/badge/Reverse%20Engineering-5e5654?style=for-the-badge)
 ![](https://img.shields.io/badge/Server%20Management-3D3B3C?style=for-the-badge)\
 ![](https://img.shields.io/badge/Electronics-5e5654?style=for-the-badge)
+![](https://img.shields.io/badge/Cryptocurrency-3D3B3C?style=for-the-badge)
 ![](https://img.shields.io/badge/3D%20Printing-363331?style=for-the-badge)\
 ![](https://img.shields.io/badge/Coffee-4d3b34?style=for-the-badge)
 ![](https://img.shields.io/badge/Mountain%20Dew-07703C?style=for-the-badge)
@@ -40,3 +45,11 @@ Average cybersecurity enthusiast, casual developer, meticulous reverse engineer.
 ![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Cryptocurrency
+
+| Network | Receive Address |
+|---------|-----------------|
+| ![Monero/XMR](https://img.shields.io/badge/Monero-3C3C3D?style=for-the-badge&logo=monero&logoColor=FF6600)         | `42w9nCAPRmYewCsh7vusec4rJACWv3T2kSsrxDxw2sgp3hmE9UmHNC2hQsb6ghQJA7iCFo8e3HcXbYRkRCj4ZSsR1JA9D1K` |
+| ![Ethereum/ETH](https://img.shields.io/badge/Eth%2FERC20-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) | `0xF783900F00B2960F54A1b5d5B01b3AA371eCddB0` |
+| ![Litecoin/LTC](https://img.shields.io/badge/Litecoin-3C3C3D?style=for-the-badge&logo=litecoin&logoColor=A6A9AA)   | `ltc1qqqxjh9wqy398nlq3zsntx0mlgttkah4ueydnez` |
