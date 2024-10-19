@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-hardenburgh/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nick@reversed.coffee)
-[![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/Ak1GukVX2l8Dofirn8M66E-wXHcX4wK8zQ1EjOT8LcXb8gxJy81GvYkZB5fCsaxQ)
+[![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/RZE3bXvbHpSsYE5dwVwXzJ5oaijE9R0l2Qb3owI7Ee2eej2HZqdOYbSAQY7feq7-)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reversed_coffee)
 
 OpenPGP Key ID: `48d266e3255b7be2`
