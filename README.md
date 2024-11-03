@@ -12,6 +12,8 @@ I'm just your average cybersecurity enthusiast. Here's a highlight of current ev
 - 🎒 Taking my 2nd year Cybersecurity/Digital Forensics course
 - 🎓 Working on obtaining my associate's degree
 
+You can learn more about me at [https://reversed.coffee](https://reversed.coffee)!
+
 #### Interests
 ![](https://img.shields.io/badge/Software%20Engineering-363331?style=for-the-badge)
 ![](https://img.shields.io/badge/Reverse%20Engineering-5e5654?style=for-the-badge)
