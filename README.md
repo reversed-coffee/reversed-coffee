@@ -8,7 +8,7 @@
 OpenPGP Key ID: `48d266e3255b7be2`
 
 I'm just your average cybersecurity enthusiast. Here's a highlight of current events:
-- 🧑‍💻 Competing in CyberPatriot XVII as a varsity Team Captain (Team 17-2177)
+- 🧑‍💻 Competing in CyberPatriot XVII as a varsity Team Captain (Team 17-2177; **Awarded 1st place state, qualifying for semifinals**)
 - 🎒 Taking my 2nd year Cybersecurity/Digital Forensics course
 - 🎓 Working on obtaining my associate's degree
 
