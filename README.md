@@ -8,9 +8,9 @@
 OpenPGP Key ID: `48d266e3255b7be2`
 
 I'm just your average cybersecurity enthusiast. Here's a highlight of current events:
-- 🧑‍💻 Finished CyberPatriot XVII as a Team Captain (Team 17-2177; **Awarded 1st place state, top 100 nationally!**)
-- 🎒 Taking my 2nd year Cybersecurity/Digital Forensics course
-- 🎓 Working on obtaining my associate's degree
+- 🧑‍💻 Working on a startup company
+- 🎒 Learning about system administration
+- 🎓 Working on obtaining my associate's degree in IT
 
 You can learn more about me at [https://reversed.coffee](https://reversed.coffee)!
 
