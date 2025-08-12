@@ -14,7 +14,7 @@ I'm just your average cybersecurity enthusiast. Here's a highlight of current ev
 
 You can learn more about me at [https://reversed.coffee](https://reversed.coffee)!
 
-**Please stop soliciting my inbox. I do not want your development services.**
+**Please do not solicit my inbox. I am not interested in development services.**
 
 #### Interests
 ![](https://img.shields.io/badge/Software%20Engineering-363331?style=for-the-badge)
