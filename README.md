@@ -12,7 +12,7 @@ I'm just your average cybersecurity enthusiast. Here's a highlight of current ev
 - 🎒 Learning about system administration
 - 🎓 Working on obtaining my associate's degree in IT
 
-You can learn more about me at [https://reversed.coffee](https://reversed.coffee)!
+You can view my portfolio at [https://reversed.coffee](https://reversed.coffee/projects).
 
 **Please do not solicit my inbox. I am not interested in development services.**
 
