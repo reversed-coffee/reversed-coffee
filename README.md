@@ -6,11 +6,11 @@ OpenPGP ID: `48d266e3255b7be2`
 ![My Inbox](https://github.com/reversed-coffee/reversed-coffee/raw/refs/heads/main/inbox.svg)
 ![Substrant Inbox](https://github.com/reversed-coffee/reversed-coffee/raw/refs/heads/main/inbox-llc.svg)
 
-Nothing crazy happens here, but I do make very niche low-level projects. I think like an engineer...maybe a little too much.
+IT systems/infrastructure engineer. I develop unique solutions, write low-level code for fun, love cybersecurity, and run a homelab complex enough to require an automation matrix. Yes, it's an obsession.
 
 - 🧑‍💻 Actively developing several technologies [@substrant](https://github.com/substrant/)
-- 🎓 Attending trade school and college for IT; System administration and cybersecurity
-- 🏆 Business Professionals of America National Finalist (3 consecutive years)
+- 💻 Working with IT networks and systems
+- 🎓 Actively attending college for CS
 
 #### Specializations
 
