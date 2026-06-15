@@ -3,8 +3,10 @@
 OpenPGP ID: `48d266e3255b7be2`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-hardenburgh/)
+[![Certifications](https://img.shields.io/badge/Certifications-C8102E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.credly.com/users/nicholas-hardenburgh/badges/credly)\
 ![My Inbox](https://github.com/reversed-coffee/reversed-coffee/raw/refs/heads/main/inbox.svg)
 ![Substrant Inbox](https://github.com/reversed-coffee/reversed-coffee/raw/refs/heads/main/inbox-llc.svg)
+
 
 IT systems/infrastructure engineer. I develop unique solutions, write low-level code for fun, love cybersecurity, and run a homelab complex enough to require an automation matrix. Yes, it's an obsession.
 
